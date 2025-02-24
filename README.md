@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🤖 AIC - AI Conversation Assistant</h1>
-  <p>Smart Chat | Multi-Platform | History Memory | Open Source</p>
+  <p>Smart Chat | Multi-Platform | History Memory </p>
 </div>
 
 ![Demo Screenshot](demo-screenshot.png)
