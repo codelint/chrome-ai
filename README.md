@@ -27,4 +27,5 @@
 3. Select desired AI model
 4. Start chatting! History auto-saves in sidebar
 
+## 📷 Screenshot
 ![Demo Screenshot](app/snapshot/snapshot.1280x800.png)
