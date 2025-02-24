@@ -3,8 +3,6 @@
   <p>Smart Chat | Multi-Platform | History Memory </p>
 </div>
 
-![Demo Screenshot](demo-screenshot.png)
-
 ## ✨ Core Features
 - **OpenAPI Compatibility**  
   Supports OpenAI-API compatible api services (DeepSeek/ChatGPT/etc)
@@ -28,3 +26,5 @@
 2. Add API configurations under "Settings"
 3. Select desired AI model
 4. Start chatting! History auto-saves in sidebar
+
+![Demo Screenshot](app/snapshot/snapshot.1280x800.png)
