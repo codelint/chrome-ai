@@ -7,13 +7,13 @@
 
 ## ✨ Core Features
 - **OpenAPI Compatibility**  
-  Supports all OpenAI-API compatible services (DeepSeek/Moonshot/etc)
+  Supports OpenAI-API compatible api services (DeepSeek/ChatGPT/etc)
 - **Conversation Memory**  
   Auto-saves complete chat history with context-aware interactions
 - **Multi-Provider Management**  
   Manage API keys and endpoints for different service providers
 - **Smart Model Switching**  
-  Freely choose between AI models (GPT-3.5/4-turbo/Mistral etc)
+  Freely choose between AI models (GPT-3.5/Deepseek-r1/Hunyuan etc)
 - **Privacy First**  
   All data stored locally, never uploaded to cloud
 
